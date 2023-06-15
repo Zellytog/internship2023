@@ -1,4 +1,0 @@
-name: test
-include: .
-depend: cubical
-flags: --cubical
