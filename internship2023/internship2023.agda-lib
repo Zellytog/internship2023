@@ -1,0 +1,4 @@
+name: internship2023
+include: .
+depend: cubical
+flags: --cubical
